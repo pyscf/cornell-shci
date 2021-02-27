@@ -13,5 +13,6 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
-from pyscf.cornell_shci.shci import SHCI, SHCISCF
+__version__ = '0.0.1'
 
+from pyscf.cornell_shci.shci import SHCI, SHCISCF
