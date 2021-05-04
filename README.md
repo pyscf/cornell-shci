@@ -7,9 +7,9 @@ Cornell SHCI module for PySCF
 
 Install
 -------
-* Install to python site-package folder
+* Install to python site-packages folder
 ```
-pip install https://github.com/pyscf/cornell-shci
+pip install git+https://github.com/pyscf/cornell-shci
 ```
 
 * Install in a custom folder for development
